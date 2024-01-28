@@ -1,2 +1,3 @@
-- stock1
-- promotion1
+- stock3
+- promotion3
+- log3
